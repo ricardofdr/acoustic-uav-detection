@@ -23,11 +23,11 @@ List of notebooks implemented:
   - *(to be updated)*
 
 List of notebooks for future implementation:
-  -  01_data_exploration    - Inspection and understanding of raw data;
-  -  02_feature_extraction  - Transformation of audio into features;
-  -  03_model_training      - Model training;
-  -  04_model_evaluation    - Test and results analysis;
-  -  05_prototype_test      - Real-time or live experiments.
+  -  01_data_exploration - Inspection and understanding of raw data;
+  -  02_feature_extraction - Transformation of audio into features;
+  -  03_model_training - Model training;
+  -  04_model_evaluation - Test and results analysis;
+  -  05_prototype_test - Real-time or live experiments.
 
 
 
