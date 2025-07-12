@@ -4,7 +4,7 @@ Acoustic-based UAV detection using deep learning (CNN/RNN), focused on real-time
 
 
 ## Introduction
-Unmanned Aerial Vehicles (UAVs) have become increasingly common over the years, thanks to their diverse applications and ease of deployment. Both in military applications and civil applications.
+Unmanned Aerial Vehicles (UAVs) have become increasingly common over the years, both in military applications and civil applications, thanks to their diverse applications and ease of deployment.
 
 
 ## Objectives
