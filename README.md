@@ -10,6 +10,10 @@ Unmanned Aerial Vehicles (UAVs) have become increasingly common over the years, 
 ## Objectives
 The main objective of this project is to train the model, enabling it to detect the presence of UAVs within its radius, based on the transmitted acoustic signal.
 
+Models to be implemented:
+  - RNN;
+  - CNN;
+  - TCN.
 
 ## Datasets
 This project uses publicly available drone acoustic datasets:
