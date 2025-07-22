@@ -1,2 +1,6 @@
 /data/
 /.venv/
+/droneprint_metadata.csv
+/train_metadata.csv
+/val_metadata.csv
+/test_metadata.csv
