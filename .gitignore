@@ -5,3 +5,8 @@
 /val_metadata.csv
 /test_metadata.csv
 /02_feature_extraction_old.ipynb
+
+/models
+/utils
+normalized_metadata.csv
+segments_metadata.csv
