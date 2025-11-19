@@ -10,3 +10,7 @@
 /utils
 normalized_metadata.csv
 segments_metadata.csv
+augmented_metadata.csv
+final_preprocessed_metadata.csv
+/features/
+best_lstm_model.pth
