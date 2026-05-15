@@ -1,0 +1,10 @@
+{
+  "Test accuracy (%)": 98.56,
+  "F1-score (drone)": 0.9798,
+  "AUC-ROC": 0.9977,
+  "Average Precision": 0.9966,
+  "Precision (drone %)": 97.0,
+  "Recall (drone %)": 98.98,
+  "False Alarm Rate (%)": 1.67,
+  "Miss Detection Rate (%)": 1.02,
+  "Optimal threshold": 
