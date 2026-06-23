@@ -1,0 +1,21 @@
+file_path,label,dataset,model,make,split
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Bebop2_Test_File1.wav,drone,DS1,Bebop2,Parrot,test
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Bebop2_Test_File2.wav,drone,DS1,Bebop2,Parrot,val
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Bebop2_Test_File3.wav,drone,DS1,Bebop2,Parrot,train
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Matrice100_Test_File1.wav,drone,DS1,Matrice100,DJI,train
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Matrice100_Test_File2.wav,drone,DS1,Matrice100,DJI,test
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Matrice100_Test_File3.wav,drone,DS1,Matrice100,DJI,val
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Mavic_Test_File1.wav,drone,DS1,MavicPro,DJI,test
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Mavic_Test_File2.wav,drone,DS1,MavicPro,DJI,train
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Mavic_Test_File3.wav,drone,DS1,MavicPro,DJI,val
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Phantom_Test_File1.wav,drone,DS1,Phantom4Pro,DJI,val
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Phantom_Test_File2.wav,drone,DS1,Phantom4Pro,DJI,test
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Phantom_Test_File3.wav,drone,DS1,Phantom4Pro,DJI,train
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Spark_Test_File1.wav,drone,DS1,Spark,DJI,val
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Spark_Test_File2.wav,drone,DS1,Spark,DJI,test
+./data/DronePrint-master/Dataset/DS1/ExperimentallyCollected\Spark_Test_File3.wav,drone,DS1,Spark,DJI,train
+./data/DronePrint-master/Dataset/DS2/Experimentally Collected Data\CalmEnvironment_Test.wav,non_drone,DS2,None,None,train
+./data/DronePrint-master/Dataset/DS2/Experimentally Collected Data\CalmEnvironment_Train_File1.wav,non_drone,DS2,None,None,test
+./data/DronePrint-master/Dataset/DS2/Experimentally Collected Data\CalmEnvironment_Train_File2.wav,non_drone,DS2,None,None,train
+./data/DronePrint-master/Dataset/DS2/Experimentally Collected Data\CalmEnvironment_Train_File3.wav,non_drone,DS2,None,None,val
+./data/DronePrint-master/Dataset/DS2/Experimentally Collected Data\CalmEnvironment_Validation.wav,non_drone,DS2,None,None,train

@@ -1,17 +1,24 @@
 {
+  "architecture": "2x LSTM(32) -> Dense(softmax)  [DronePrint Fig. 8]",
   "input_shape": [
     10,
-    40,
-    1
+    40
   ],
-  "n_mfcc": 40,
-  "frame_ms": 200,
-  "n_frames": 10,
-  "sample_rate": 44100,
-  "fmax": 8000,
-  "learning_rate": 0.001,
-  "batch_size": 64,
-  "epochs_run": 16,
-  "val_accuracy": 0.3525179922580719,
-  "val_auc": 0.9855442047119141
+  "learning_rate": 0.0001,
+  "max_epochs": 500,
+  "classifier_X_background_val_acc": 0.9982143044471741,
+  "classifier_X_openmax_classes": [
+    "DJI::Matrice100",
+    "DJI::MavicPro",
+    "DJI::Phantom4Pro",
+    "DJI::Spark",
+    "Parrot::(single model)"
+  ],
+  "classifier_Y_make_classes": [
+    "DJI",
+    "Parrot"
+  ],
+  "classifier_Z_makes_trained": [
+    "DJI"
+  ]
 }

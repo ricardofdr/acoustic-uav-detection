@@ -1,10 +1,12 @@
 {
-  "Test accuracy (%)": 98.56,
-  "F1-score (drone)": 0.9798,
-  "AUC-ROC": 0.9977,
-  "Average Precision": 0.9966,
-  "Precision (drone %)": 97.0,
-  "Recall (drone %)": 98.98,
-  "False Alarm Rate (%)": 1.67,
-  "Miss Detection Rate (%)": 1.02,
-  "Optimal threshold": 
+  "classifier_X_background_closed_set_acc": 0.9591836734693877,
+  "classifier_X_background_open_set_acc": null,
+  "classifier_X_openmax_closed_set_acc": 0.7959183673469388,
+  "classifier_X_openmax_open_set_acc": null,
+  "classifier_Y_make_acc": 1.0,
+  "per_make_model_acc": {
+    "DJI": 0.8,
+    "Parrot": 1.0
+  },
+  "overall_cascade_acc": 0.9
+}
