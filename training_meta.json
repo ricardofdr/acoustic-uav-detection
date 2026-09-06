@@ -6,7 +6,7 @@
   ],
   "learning_rate": 0.0001,
   "max_epochs": 500,
-  "classifier_X_background_val_acc": 0.9982143044471741,
+  "classifier_X_background_val_acc": 0.9988095164299011,
   "classifier_X_openmax_classes": [
     "DJI::Matrice100",
     "DJI::MavicPro",

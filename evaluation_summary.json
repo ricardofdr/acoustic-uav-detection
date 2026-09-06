@@ -1,12 +1,12 @@
 {
   "classifier_X_background_closed_set_acc": 0.9591836734693877,
   "classifier_X_background_open_set_acc": null,
-  "classifier_X_openmax_closed_set_acc": 0.7959183673469388,
+  "classifier_X_openmax_closed_set_acc": 0.673469387755102,
   "classifier_X_openmax_open_set_acc": null,
-  "classifier_Y_make_acc": 1.0,
+  "classifier_Y_make_acc": 0.8,
   "per_make_model_acc": {
-    "DJI": 0.8,
+    "DJI": 0.9,
     "Parrot": 1.0
   },
-  "overall_cascade_acc": 0.9
+  "overall_cascade_acc": 0.76
 }
